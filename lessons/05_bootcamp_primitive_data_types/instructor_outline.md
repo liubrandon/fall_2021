@@ -1,6 +1,80 @@
 ## 1. Refresh on box metaphor
 * Variables are boxes: variable names are like labels, the data are what's stored in the box
-* Remind students we talked about 2 of the most basic data types that could be variables last time (int/float)
+
+## 4. Integers
+
+**For this section and the next, have students make a new script in `bootcamp_scripts` called `integers_floats.py`**
+
+#### Primitive data types
+
+* Give brief overview that there are 4 primitive data types
+
+#### What are integers?
+
+* Whole numbers
+
+#### Math in python / working with integers
+
+Show students these common math operations in python with print statements using integers
+
+* Addition: `+`
+* Subtraction `-`
+* Multiplication `*`
+* Division `/`
+* Exponents `**` (i.e. `5**2` means 5 squared (to the 2nd power), or `3**9` means 3 to the 9th power)
+
+
+```python
+print(1+3)
+print(1*3)
+print(1-3)
+```
+
+
+#### Integers as variables
+
+* Show that integers can be assigned to variables, and you can do math with the variables
+
+```python
+# assign a positive integer to a variable
+positive_number = 10
+
+# assign a negative integer to a variable
+negative_number = -5
+
+# add the values of the two variables and print
+print(positive_number + negative_number)
+```
+
+
+## 5. Floats
+
+* Floats, unlike integers, **do have decimal points**
+* Show some math operations with floats too
+* Show that some operations on integers (divison) return a float back
+
+```python
+print(1.1+3.1)
+print(1.5*2)
+print(1-3.736)
+```
+
+
+#### Order of operations
+
+* Explain briefly that python math follows order of operations
+* Show that parentheses matter
+
+```python
+var_a = 2+3*4
+var_b = (2+3)*4
+print(var_a)
+print(var_b)
+```
+### Type conversion
+
+* Show using `float()` to convert to float and `int()` to convert to integer
+* Explain that you can lose info when going from float to integer
 
 ## 2. Strings!
 
@@ -96,7 +170,7 @@ Mention that we'll review this from last time
 * show what happens when we look at the type for variables of string/boolean data types
 
 
-## 11. Type conversion with strings
+## 11. More type conversions
 
 * Show that all other primitive data types can be converted to strings with `str()`
 * If time, show how converting from string --> other primitive data types won't always work depending on the contents of the string

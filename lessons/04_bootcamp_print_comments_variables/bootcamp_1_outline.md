@@ -133,89 +133,10 @@ first_name = 'Paul'
 # print out the contents of the variable (but we misspelled it)
 print(firstname)
 ```
-
-## 4. Integers
-
-**For this section and the next, have students make a new script in `bootcamp_scripts` called `integers_floats.py`**
-
-#### Primitive data types
-
-* Give brief overview that there are 4 primitive data types
-
-#### What are integers?
-
-* Whole numbers
-
-#### Math in python / working with integers
-
-Show students these common math operations in python with print statements using integers
-
-* Addition: `+`
-* Subtraction `-`
-* Multiplication `*`
-* Division `/`
-* Exponents `**` (i.e. `5**2` means 5 squared (to the 2nd power), or `3**9` means 3 to the 9th power)
-
-
-```python
-print(1+3)
-print(1*3)
-print(1-3)
-```
-
-
-#### Integers as variables
-
-* Show that integers can be assigned to variables, and you can do math with the variables
-
-```python
-# assign a positive integer to a variable
-positive_number = 10
-
-# assign a negative integer to a variable
-negative_number = -5
-
-# add the values of the two variables and print
-print(positive_number + negative_number)
-```
-
-
-## 5. Floats
-
-* Floats, unlike integers, **do have decimal points**
-* Show some math operations with floats too
-* Show that some operations on integers (divison) return a float back
-
-```python
-print(1.1+3.1)
-print(1.5*2)
-print(1-3.736)
-```
-
-
-#### Order of operations
-
-* Explain briefly that python math follows order of operations
-* Show that parentheses matter
-
-```python
-var_a = 2+3*4
-var_b = (2+3)*4
-print(var_a)
-print(var_b)
-```
-
-### Type conversion
-
-* Show using `float()` to convert to float and `int()` to convert to integer
-* Explain that you can lose info when going from float to integer
-
-
 ## Overview
 
 So, what have we learned during this lesson?
 * How to get python to print out things to the command line when you run scripts
 * How to document code with comments that will not be run
 * How to make variables, reference them by name, and assign/update/print their contents
-* How to work with the two numeric basic data types: integers and floats
 * All of these skills will be super important for progamming in python, and most will carry over to other coding languages too!
