@@ -17,7 +17,7 @@ Today we'll learn about **logic** in python. By the end of the lesson, you'll:
 4. Feel comfortable using `assert()` to check whether a certain condition is true before the rest of your code runs    
     
 
-## 1. Logical Operators
+## 1. Comparison Operators
 
 * Explain how logic can only result in `True` or `False` answers
 
@@ -116,7 +116,7 @@ True
 ```
 
 
-## 2. Compound Logic (`or`, `and`, & `not`)
+## 2. Logical Operators (`or`, `and`, & `not`)
 
 
 ### `or`
