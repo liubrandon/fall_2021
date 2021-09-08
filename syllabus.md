@@ -1,7 +1,7 @@
-# Phase 1: Bootcamp
+# Justice Through Code Fall 2021 Syllabus
 
-### Week 1 (video playlist link [here](https://www.youtube.com/playlist?list=PLimNeGdZ0d6R6f6xvvhE1hSD1uD_ToXOR))
 
+## Phase 1: Bootcamp
 
 Week | Date      |   Lesson/Revew Topic    | Video Module To Complete Before Class | Challenge (Due 1 Week After Class) |
 | -----------  | ----------- | ----------- | ----------- | ----------- |
@@ -21,7 +21,7 @@ Week | Date      |   Lesson/Revew Topic    | Video Module To Complete Before Cla
 5 | Oct 7 (Thurs)   | Phase 1 Review   | |  Bank account pair programming challenge
 
 
-# Phase 2: Full Stack Development
+## Phase 2: Full Stack Development
 
 Week | Date      |   Lesson/Revew Topic    | Video Module To Complete Before Class | Challenge (Due 1 Week After Class) |
 | -----------  | ----------- | ----------- | ----------- | ----------- |
@@ -41,4 +41,22 @@ Week | Date      |   Lesson/Revew Topic    | Video Module To Complete Before Cla
 10| Nov 10 (Wed) |Technical planning for projects|TBA|TBA
 10| Nov 11 (Thurs) |Review|TBA|TBA
 
-# Phase 3: WOW Capstone Projects
+## Phase 3: WOW Capstone Projects
+
+Week | Date      |   Topic   | Projects| 
+| -----------  | ----------- | ----------- |----------- |
+11|Nov 15 (Mon) | WOW Project Work ||
+11|Nov 17 (Wed) |WOW Project Work ||
+11|Nov 18 (Thurs) |WOW Project Work ||
+12|Nov 22 (Mon) | WOW Project Work ||
+12|Nov 24 (Wed) - **NO CLASS** |||
+12|Nov 25 (Thurs) - **NO CLASS**| ||
+13|Nov 29 (Mon) | WOW Project Work ||
+13|Dec 1 (Wed) |WOW Project Work ||
+13|Dec 2 (Thurs) |WOW Project Work ||
+14|Dec 6 (Mon) | WOW Project Work ||
+14|Dec 8 (Wed) |WOW Project Work ||
+14|Dec 9 (Thurs) |WOW Project Work ||
+15|Dec 13 (Mon) | WOW Project Work ||
+15|Dec 15 (Wed) |WOW Project Work ||
+15|Dec 16 (Thurs) |WOW Project Work ||
