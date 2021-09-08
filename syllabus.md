@@ -18,11 +18,15 @@
 
 ### Week 3 (video playlist link [here](https://www.youtube.com/playlist?list=PLimNeGdZ0d6QmnfApr-N4nlQ0n2BYp4TV))
 
-| Date      |   Lesson/Review Topic    | Video Module To Complete Before Class | Challenge (Due 1 Week After Class) |
-| ----------- | ----------- | ----------- | ----------- |
-| Sept 20      | Lists   | Week 3: Lists| Box Office challenge
-| Sept 22   | Dictionaries | Week 3: Dictionaries | Restaurants challenge
-| Sept 23   | Nested Data   | Week 3: Nested Data |  Buy me a laptop challenge
+Week | Date      |   Lesson/Review Topic    | Video Module To Complete Before Class | Challenge (Due 1 Week After Class) |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+3 ([video playlist](https://www.youtube.com/playlist?list=PLimNeGdZ0d6QmnfApr-N4nlQ0n2BYp4TV))| Sept 20      | Lists   | Week 3: Lists| Box Office challenge
+3 | Sept 22   | Dictionaries | Week 3: Dictionaries | Restaurants challenge
+3 | Sept 23   | Nested Data   | Week 3: Nested Data |  Buy me a laptop challenge
+4 ([video playlist](youtube.com/playlist?list=PLimNeGdZ0d6Tw-VkV51wKzdkN-KJ_ifnh))| Sept 27      | Data Structures Review   | | Search NYC Challenge
+4 | Sept 29  | Loops | Week 4: Loops | Emails challenge, Deli challenge
+4 | Sept 30   | Function   | Week 4: Functions |  Library Challenge
+
 
 
 # Phase 2: Full Stack Development
