@@ -396,7 +396,7 @@ We aren't going to spend a lot of time on Booleans now, but it is important to k
 
 ## More type conversions
 
-It is often useful to be able to convert a variable of one type to another. However, this can be a little tricky -- as we saw last time, we can accidentaly lose information when we convert (for example from a float to an integer), so it's good spend some time thinking about how these conversions work.
+Now that we've familiarized ourselved with the primitive data types, it would be useful to know how to do convert one data type into another. However, this can be a little tricky -- as we saw last time, we can accidentaly lose information when we convert (for example from a float to an integer), so it's good spend some time thinking about how these conversions work.
 
 ### Finding the data type of a value
 
