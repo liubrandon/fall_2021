@@ -31,7 +31,7 @@ Just as with math, integers are **whole numbers** -- they can be positive, negat
 
 #### Math in python / working with integers
 
-Here's how to do the most common mathematical operations in python:
+We can perform mathematical operations with integers using arithmetic operators. Let's look at some operators we can use:
 
 * Addition: `+`
 * Subtraction `-`
